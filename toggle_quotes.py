@@ -2,17 +2,7 @@ import sublime
 import sublime_plugin
 
 def _toggle_quotes(text):
-    new_chars = []
-
-    for char in list(text):
-        if char == "'":
-            new_chars.append('"')
-        elif char == '"':
-            new_chars.append("'")
-        else:
-            new_chars.append(char)
-
-    return "".join(new_chars)
+    return text.translate(str.maketrans("'\"", "\"'"))
 
 class ToggleQuotesCommand(sublime_plugin.TextCommand):
     def run(self, edit):
