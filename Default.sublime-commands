@@ -1,0 +1,6 @@
+[
+	{
+	    "caption": "Toggle Quotes",
+	    "command": "toggle_quotes"
+	}
+]

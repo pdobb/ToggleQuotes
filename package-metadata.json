@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/pdobb/ToggleQuotes",
+  "description": "Toggle quotes plugin (single -> double / double -> single) for Sublime Text 4.",
+  "sublime_text": "*",
+  "dependencies": [],
+  "platforms": ["*"],
+  "version": "2023.01.19.15.25.30"
+}
