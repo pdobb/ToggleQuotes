@@ -1,3 +1,4 @@
 [
   { "keys": ["super+option+'"], "command": "toggle_quotes"},
+  { "keys": ["super+ctrl+'"], "command": "toggle_quotes"},
 ]

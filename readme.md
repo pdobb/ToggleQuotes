@@ -6,7 +6,7 @@ Toggle Quotes is a plugin for Sublime Text. It converts single quotes to double 
 
 ## Keybindings
 - Linux:    `ctrl+alt+'`
-- Mac:      `super+option+'`
+- Mac:      `super+option+'`, `super+ctrl+'`
 - Windows:  `ctrl+alt+'`
 
 ### Customize
