@@ -26,8 +26,8 @@
                 "caption": "Key Bindings",
                 "command": "edit_settings",
                 "args": {
-                  "base_file": "${packages}/Toggle Quotes/Default (${platform}).sublime-keymap",
-                  "default": "// Settings in here override those in \"${packages}/Toggle Quotes/Default.sublime-settings\",\n\n{\n\t$0\n}\n"
+                  "base_file": "${packages}/ToggleQuotes/Default (${platform}).sublime-keymap",
+                  "default": "// Settings in here override those in \"${packages}/ToggleQuotes/Default.sublime-settings\",\n\n{\n\t$0\n}\n"
                 }
               }
             ]
