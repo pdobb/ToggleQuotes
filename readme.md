@@ -9,7 +9,7 @@ Toggle Quotes is a plugin for Sublime Text. It converts single quotes to double 
 ## Keybindings
 
 - Linux:    `ctrl+alt+'`
-- Mac:      `super+option+'`, `super+ctrl+'`
+- Mac:      `super+option+'`, or `super+ctrl+'`
 - Windows:  `ctrl+alt+'`
 
 ### Customize
@@ -18,6 +18,14 @@ Toggle Quotes is a plugin for Sublime Text. It converts single quotes to double 
 
 ## Install
 
-### Git Clone
+1. Add this repository to Package Control
 
-Clone this repository in to the Sublime Text "Packages" directory, which is located where ever the `Settings` -> `Browse Packages` option in Sublime takes you.
+- Search the Sublime Text command pallet (Super + Shift + P) for `Package Control: Add Repository`.
+- Enter `https://github.com/pdobb/ToggleQuotes.git` into the text box.
+
+See https://stackoverflow.com/a/44441455/171183 for more detail on this.
+
+2. Install ToggleQuotes via Package Control
+
+- Search the Sublime Text command pallet again, for `Package Control: Install Package`.
+- Enter `ToggleQuotes` to install.
